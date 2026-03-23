@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://hyper-local-22.vercel.app/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/about-us/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/brands/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/categories/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/delivery-zones/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/faqs/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/feature-sections/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/privacy-policy/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/return-refund-policy/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/seller-register/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/shipping-policy/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/stores/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/terms-and-conditions/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/stores/amits-beauty-essentials-1/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/stores/amits-grocery-hub/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/stores/api-test-store-1/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/stores/bhuj-airport/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/stores/bhuj-bus-st-store-1/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/stores/bhuj-store-2/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/stores/city-square-mart/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/stores/fast-food-hub-1/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/stores/priyas-grocery-mart-1/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/stores/silicon-valley-store/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/stores/snack-hub/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/stores/techsphere-electronics-1/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/stores/tinytrends-1/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/stores/vastravibe-1/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/black-shirt/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/blue-shirt-10/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/white-shirt-22/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/test-12/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/formal-shirt-2/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/graphic-t-shirt-1/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/classic-t-shirt-27/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/classic-pant/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/sports-shorts/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/hoodie-sweatshirt/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/track-pants/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/denim-jeans/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/casual-shirt/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/formal-shirt/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/premium-polo-shirt-1/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/graphic-t-shirt/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/classic-t-shirt-26/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/premium-polo-shirt/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/title/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/d-g/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/premium-polo-15/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/classic-t-shirt-25/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/fhcbvc/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/premium-polo-14/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/classic-t-shirt-24/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/premium-polo-13/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/classic-t-shirt-23/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/test2fe/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/test-9/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/aut-nihil-fugiat-des/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/2-pc-floral-blooming-formal-set/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/3-pc-bamboo-embroidery-formal-set/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/radha-govind-100-pure-california-almonds-500gm/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/dabhi-dry-fruits-premium-turkish-jumbo-figs-250g/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/sapphire-foods-dried-black-berry/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/flyberry-gourmet-jumbo-medjoul-medjool-dates/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/king-solomon-dates-premium-medjool-dates-big-jumbo-size-1kg/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/baby-brand-saffron-1gm/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/suhana-premium-saffron/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/adidas-3-stripes-pure-cotton-t-shirt/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/levis-men-soft-pure-cotton-round-neck-half-sleeve-tshirt/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/kajaru-self-design-polo-collar-t-shirt/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/pepe-jeans-men-lounge-t-shirt/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/pepe-jeans-men-crew-neck-relaxed-fit-lounge-tshirt/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/aww-hunnie-boys-girls-full-sleeve-solid-sweatshirt/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/oversized-brushed-inside-sweatshirt/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/aww-hunnie-girls-grey-a-line-dress-1/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/girls-pencil-knee-length-skirt-with-back-slit-1/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/2-piece-sweatshirt-set-1/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/drools-absolute-dog-supplement-tablet-skin-coat-400g-110-pieces-jar/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/moe-puppy-moe-100-cotton-towel-for-pets-highly-absorbent-and-softpack-of-1pink-400-tc/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/drools-real-chicken-cat-biscuits-400-g/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/pets-empire-catch-the-mouse-motion-cat-toy/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/ruffwear-grip-trex-all-terrain-paw-wear-for-dogs-obsidian-black-15-in-set-of-2/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/pawsome-snooz-foam-dog-bed-puppy-dog-crate-pad-dog-crate-blacklarge/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/drools-chicken-liver-in-gravy-puppy-wet-dog-food/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/pedigree-adult-dry-dog-food-vegetable/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/eureka-forbes-buddy-pet-grooming-kit-for-dogs-cats-dry-vacuum-cleaner-white/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/letsshave-ez-wizzy-3-in-1-pet-grooming-kit/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/godrej-yummiez-cheese-chicken-nuggets-frozen/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/safal-frozen-mixed-vegetables/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/spt-frozen-grated-coconut/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/grit-beige-womens-sneaker/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/black-casual-shoes-for-ladies-1/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/woodland-mens-camel-sneakers-1/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/plunge-white-mens-walking-shoes-1/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/licious-freshwater-rohu-bengali-cut-fish-without-head-1/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/big-sams-pacific-frozen-smoked-salmon-fish/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/licious-chicken-breast-boneless/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/licious-chicken-keema-mini-pack/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/prasuma-pork-pepperoni-salami/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/prasuma-pork-breakfast-bacon/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/classmate-pulse-spiral-notebook-203-mm-x-267-mm-soft-cover-160-pages-unruled/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/cello-school-kit/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/cello-desk-station-assorted-office-stationery-items-23-stationery-items-1-pen-stand-multicolor-plastic-corporate-gifts-for-employees/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/jk-easy-70-gsm-a4-size-multipurpose-copier-paper-500-sheets-white-pack-of-5-ream/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/kissan-chilli-tomato-sauce/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/kissan-fresh-tomato-ketchup/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/navneet-youva-assorted-paper-notebook-1/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/kissan-mango-jam/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/kissan-pineapple-jam/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/classmate-exercise-single-line-notebook-172-pages-multicolour-2/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/kissan-mixed-fruit-jam/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/kissan-no-onion-no-garlic-tomato-sauce/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/veeba-tomato-ketchup-chefs-special/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/fortune-india-october-1st-2025-1/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/manifest-september-october-2025-1/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/milky-mist-set-curd-tub/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/good-eggs-omega-3-white-eggs/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/suguna-delfrez-nourish-white-eggs/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/motif-detail-brushed-inside-sweatshirt-1/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/abhi-nutri-white-eggs/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/akshayakalpa-organic-country-eggs/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/fresh-brown-eggs/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/cotton-embroidered-sweatshirt-niret-dusky-green-1/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/english-oven-zero-maida-100-whole-wheat-bread/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/the-health-factory-zero-maida-milk-bread-clean-label-not-brown/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/cotton-solid-shirt-layerr-hs-k-dusky-pink-1/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/bakers-loaf-zero-preservatives-multigrain-bread/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hyper-local-22.vercel.app/products/bakers-loaf-zero-maida-no-palm-oil-bombay-pav-by-modern/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+</urlset>
